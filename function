@@ -112,3 +112,32 @@
 // html += `<li style="color: purple">${person}</li>`;
 // });
 // console.log(html);
+
+
+
+// function Hello(){
+//     console.log('Hello World')
+// }
+// Hello()
+
+// const Hello = function(){
+//     console.log('Hello World')
+// }
+// Hello()
+
+// const Hello = () => {
+//     console.log("Hello World")
+// }
+// Hello()
+
+
+//SUM, SUBTRACTION, MULTIPLICATION & DIVISION & REMAINDER %
+// const Sum = (number1, number2) => {
+//         return(
+//             number1 + number2
+//         )
+// }
+// console.log(Sum(30, 40))
+
+
+
