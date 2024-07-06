@@ -94,17 +94,17 @@ function greet(){
 greet();
 
 // function expression
-const speak = function(){
-    console.log('i am still learning from him');
-    console.log(5 + '3')
-    console.log(5 + Number('3'))
-}
-speak();
+// const speak = function(){
+//     console.log('i am still learning from him');
+//     console.log(5 + '3')
+//     console.log(5 + Number('3'))
+// }
+// speak();
 
-console.log(typeof null)
-console.log(0<null)
-console.log(0<=null)
-console.log(0>null)
-console.log(0>=null)
-console.log(0==null)
+// console.log(typeof null)
+// console.log(0<null)
+// console.log(0<=null)
+// console.log(0>null)
+// console.log(0>=null)
+// console.log(0==null)
 
